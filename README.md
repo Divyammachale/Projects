@@ -2,12 +2,7 @@
 
 #Importing Libraries 
 
-!pip install plotly 
-
-Requirement already satisfied: plotly in c:\users\divyan\anaconda3\lib\site-packages (4.14.3) 
-Requirement already satisfied: six in c:\users\divyan\anaconda3\lib\site-packages (from plotly) (1.16.0) 
-Requirement already satisfied: retrying>=1.3.3 in c:\users\divyan\anaconda3\lib\site-packages (from plotly) (1.3.3) 
-
+!pip install plotly  
 import numpy as np # linear algebra 
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv) 
 import matplotlib.pyplot as plt 
